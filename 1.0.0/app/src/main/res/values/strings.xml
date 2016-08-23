@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Life Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_admin_temp">AdminTemp</string>
+    <string name="title_activity_review_game">Review Game</string>
+    <string name="title_activity_saved_games">Saved Games</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_review_current_game">Current Game</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3777685364017627/8870896172</string>
+
+    <color name="black">#000000</color>
+
+</resources>
